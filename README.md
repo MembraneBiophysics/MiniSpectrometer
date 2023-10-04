@@ -1,1 +1,1 @@
-# MiniSpectrometer
+# Mini Spectrometer
